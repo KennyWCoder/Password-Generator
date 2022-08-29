@@ -16,7 +16,7 @@ N/A
 
 ## Preview of the website
 
-![Screen Shot ] Screen Shot 2022-08-28 at 8.54.28 PM.png
+<img width="1440" alt="Screen Shot 2022-08-28 at 8 54 28 PM" src="https://user-images.githubusercontent.com/97656734/187120474-742389d3-a534-4e56-ad56-cabe689f12cd.png">
 
 ## Link to the website
 
